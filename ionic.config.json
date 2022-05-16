@@ -1,0 +1,8 @@
+{
+  "name": "OrdersApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3efdb5be"
+}

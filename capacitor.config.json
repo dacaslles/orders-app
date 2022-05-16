@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "OrdersApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
